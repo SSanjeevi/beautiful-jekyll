@@ -125,7 +125,7 @@ mobile-theme-col: "#4182e4"
 google_analytics: "G-7LPPM0LXN7"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-KNRVN9P"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
