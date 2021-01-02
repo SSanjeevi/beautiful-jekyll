@@ -87,7 +87,7 @@ keywords: "blog,information technoloogy blogging,dotnet,azure,azure devops"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#4182e4"
+navbar-col: "#EAEAEA"
 navbar-text-col: "#fff"
 navbar-border-col: "#fff"
 page-col: "#FFFFFF"
