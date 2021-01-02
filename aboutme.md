@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About LKG in Information technology
+subtitle: Sanjeevi Subramani
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+This website is for beginners in Information Technology [^1].
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[^1]:a blogging platform that gives basic explanation on Information Technology.
