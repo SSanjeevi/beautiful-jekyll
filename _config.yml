@@ -122,7 +122,7 @@ mobile-theme-col: "#4182e4"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: "256892836"
+google_analytics: "UA-100201994-2"
 
 # Google Tag Manager ID
 gtm: "GTM-KNRVN9P"
