@@ -208,6 +208,10 @@
       display: block;
 
     }
+.hidemobile{
+display: none;
+}
+
   </style>
 
   <script>
@@ -224,15 +228,15 @@
     };
     $(document).ready(function () {
       if (window.mobileCheck) {
-        $('.bannertop').hide();
-        $('.bannerrightside').hide();
-        $('.bannerleftside').hide();
-        $('.bannermobile').show();        
+        $('.bannertop').addClass("hidemobile");
+        $('.bannerrightside').addClass("hidemobile");
+        $('.bannerleftside').addClass("hidemobile");
+        $('.bannermobile').removeClass("hidemobile");
       } else {
-        $('.bannertop').show();
-        $('.bannerrightside').show();
-        $('.bannerleftside').show();
-        $('.bannermobile').hide();   
+        $('.bannertop').removeClass("hidemobile");
+        $('.bannerrightside').removeClass("hidemobile");
+        $('.bannerleftside').removeClass("hidemobile");
+        $('.bannermobile').addClass("hidemobile");
       }
     });
   </script>
