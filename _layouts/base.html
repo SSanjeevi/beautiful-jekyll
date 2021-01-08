@@ -85,7 +85,7 @@ common-js:
 		  return check;
 		};
 		$(document).ready(function () {
-		  if (window.mobileCheck) {
+		  if (window.mobileCheck()) {
 			$('.bannertop').addClass("hidemobile");
 			$('.bannerrightside').addClass("hidemobile");
 			$('.bannerleftside').addClass("hidemobile");
