@@ -2,8 +2,8 @@
 layout: post
 title:  "Unit Test Interview Notes"
 author: "Sanjeevi Subramani"
-categories: [ Unit Test, Interview Notes ]
-image: assets/images/17.jpg
+tags: [ Unit Test, Interview Notes ]
+cover-img: assets/images/17.jpg
 ---
 
 **Unit Testing**

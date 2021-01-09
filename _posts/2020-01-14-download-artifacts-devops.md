@@ -2,8 +2,8 @@
 toc: true
 layout: post
 author: "Sanjeevi Subramani"
-description: Unable to download pipeline artifacts in Azure Devops Download artifacts task.
-categories: [Azure Devops, Automation]
+subtitle: 
+tags: [Azure Devops, Automation, Azure API management]
 title: Unable to download pipeline artifacts in Azure Devops Download artifacts task
 ---
 

@@ -1,9 +1,9 @@
 ---
 toc: true
 layout: post
-description: 
+subtitle: 
 author: "Sanjeevi Subramani"
-categories: [API Management, Azure]
+tags: [API Management, Azure]
 title: Azure API Management deployment using Azure Devops CI-CD Pipeline using ARM templates and Yaml file
 ---
 
@@ -17,7 +17,7 @@ Valid.yml file contains the api details like below:
 >  apiVersionSets: #version sets of the apis
 >  - id: 1
 >  displayName: Api 1
->  description: api 1
+>  subtitle: api 1
 >  versioningScheme: Query #query string will contain api-version with value of version
 >  versionQueryName: api-version
 >  apis:
@@ -32,7 +32,7 @@ Valid.yml file contains the api details like below:
 >  subscriptionRequired: true
 >  isCurrent: true
 >  apiVersion: apiVersion
->  Description: api 1 revision 1 apiVersionSetId: 1
+>  subtitle: api 1 revision 1 apiVersionSetId: 1
 >  apiRevision: 1
 >  apiRevisionDescription:
 >  products: sampleproduct

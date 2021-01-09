@@ -2,8 +2,8 @@
 layout: post
 title:  "Dependency Inversion Principle Interview Notes"
 author: "Sanjeevi Subramani"
-categories: [ Dependency Inversion, Interview Notes ]
-image: assets/images/13.jpg
+tags: [ Dependency Inversion, Interview Notes ]
+cover-img: assets/images/13.jpg
 ---
 ##
 # Dependency Inversion Principle (DIP)

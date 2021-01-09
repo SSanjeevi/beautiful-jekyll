@@ -2,8 +2,8 @@
 layout: post
 title:  "Dotnet part 3 Interview Notes"
 author: "Sanjeevi Subramani"
-categories: [ Dotnet, Interview Notes ]
-image: assets/images/2.jpg
+tags: [ Dotnet, Interview Notes ]
+cover-img: assets/images/2.jpg
 rating: 3
 ---
 **What is a Garbage Collector?**
