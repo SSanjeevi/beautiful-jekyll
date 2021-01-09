@@ -2,7 +2,7 @@
 toc: true
 layout: post
 subtitle: 
-cover-img: assets/img/12.jpg
+cover-img: assets/img/dotnetappstartlogging.jpeg
 author: "Sanjeevi Subramani"
 tags: [DotnetCore, Troubleshooting]
 title: Troubleshooting HTTP Error 500.30 — ANCM In-Process Start Failure for .NET core App deployed in Azure App service using logging

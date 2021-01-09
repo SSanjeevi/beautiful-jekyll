@@ -3,7 +3,7 @@ toc: true
 layout: post
 author: "Sanjeevi Subramani"
 subtitle: 
-cover-img: assets/img/12.jpg
+cover-img: assets/img/dotnetappstartlogging.jpeg
 tags: [DotnetCore, Troubleshooting]
 title: Troubleshooting by writing logs at the application start for .NET core app using Serilog
 ---

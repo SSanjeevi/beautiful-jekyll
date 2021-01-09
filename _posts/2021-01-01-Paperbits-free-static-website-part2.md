@@ -4,7 +4,7 @@ layout: post
 subtitle: 
 author: "Sanjeevi Subramani"
 tags: [Paperbits]
-cover-img: assets/img/12.jpg
+cover-img: assets/img/paperbits.png
 title: How to use Paperbits Open source Drag and drop Content builder and free static website generator to develop a website and host it in GitHub pages freely — Part II (Detailed steps)
 ---
 
@@ -18,7 +18,7 @@ You can find that website here: [https://tnpscquickies.com](https://tnpscquickie
 
 After following [Part-I article](https://medium.com/lkg-in-it/how-to-use-paperbits-open-source-drag-and-drop-content-builder-and-free-website-generator-to-57408d333118) clone of the Paperbits repo and running the application locally using npm start command a portal will open like the image below at url: [http://localhost:8080/](http://localhost:8080/)
 
-![](https://cdn-images-1.medium.com/max/7400/1*Vs9CC0ujvoG80mj4hRdqtA.png)
+![](/assets/img/paperbits.png)
 
 In the above image the highlighted ones are the menu to edit the website.
 
