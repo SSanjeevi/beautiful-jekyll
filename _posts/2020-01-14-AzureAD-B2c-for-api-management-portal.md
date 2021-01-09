@@ -4,6 +4,7 @@ layout: post
 subtitle: 
 author: "Sanjeevi Subramani"
 tags: [Azure AD, Azure]
+cover-img: assets/img/12.jpg
 title: Azure AD B2C setup for API Management Developer 
 ---
 solution for issue in setting up AD B2C for developer portal

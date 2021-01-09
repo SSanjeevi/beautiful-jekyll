@@ -4,6 +4,7 @@ layout: post
 subtitle: 
 author: "Sanjeevi Subramani"
 tags: [API Management, Azure]
+cover-img: assets/img/pipeline.jpg
 title: Azure API Management deployment using Azure Devops CI-CD Pipeline using ARM templates and Yaml file
 ---
 
