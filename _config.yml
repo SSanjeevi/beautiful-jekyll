@@ -14,7 +14,7 @@ author: Sanjeevi Subramani
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Tags: "Articles by Categories"
+  Articles by Categories: "tags"
   About Me: "aboutme"
 
 # --- Logo --- #
