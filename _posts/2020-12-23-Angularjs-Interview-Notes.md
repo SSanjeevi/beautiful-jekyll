@@ -3,7 +3,7 @@ layout: post
 title:  "AngularJS Interview Notes"
 author: "Sanjeevi Subramani"
 tags: [ Angularjs, Interview Notes ]
-cover-img: assets/images/12.jpg
+cover-img: assets/img/12.jpg
 featured: true
 hidden: true
 ---

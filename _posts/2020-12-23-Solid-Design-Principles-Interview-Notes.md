@@ -3,7 +3,7 @@ layout: post
 title:  "SOLID Design Principles Explained - C#"
 author: "Sanjeevi Subramani"
 tags: [ C#, Design Pattern ]
-cover-img: assets/images/15.jpg
+cover-img: assets/img/15.jpg
 ---
 
 # **SOLID Design Principles Explained - C#**

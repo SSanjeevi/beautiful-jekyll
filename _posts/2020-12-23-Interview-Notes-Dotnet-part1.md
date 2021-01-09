@@ -3,7 +3,7 @@ layout: post
 title:  "Dot Net Interview Notes"
 author: "Sanjeevi Subramani"
 tags: [ Dot Net, Interview Notes ]
-cover-img: assets/images/9.jpg
+cover-img: assets/img/9.jpg
 ---
 **What is .NET?**
 

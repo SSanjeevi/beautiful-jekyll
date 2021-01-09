@@ -52,7 +52,7 @@ Sample [BackendUrl.json](https://github.com/SSanjeevi/APIM-Devops-Sample-Pipelin
 
 Below is the sample solution structure i have used for this pipeline input :
 
-![](./../assets/images/SolutionStructure.PNG)
+![](./../assets/img/SolutionStructure.PNG)
 
 Below is the sample yaml file used in Azure Devops pipeline.
 

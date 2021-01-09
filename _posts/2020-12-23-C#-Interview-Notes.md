@@ -3,7 +3,7 @@ layout: post
 title:  "C# Interview Notes"
 author: "Sanjeevi Subramani"
 tags: [ Interview Notes, C# ]
-cover-img: assets/images/14.jpg
+cover-img: assets/img/14.jpg
 ---
 **C#:**
 

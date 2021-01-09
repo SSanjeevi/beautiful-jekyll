@@ -3,7 +3,7 @@ layout: post
 title:  "WCF Interview Notes"
 author: "Sanjeevi Subramani"
 tags: [ WCF, Interview Notes ]
-cover-img: assets/images/16.jpg
+cover-img: assets/img/16.jpg
 ---
 
 # **WCF:**

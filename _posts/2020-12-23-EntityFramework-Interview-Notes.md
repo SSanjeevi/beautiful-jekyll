@@ -3,7 +3,7 @@ layout: post
 title:  "Entity Framework Interview Notes"
 author: "Sanjeevi Subramani"
 tags: [ Entity Framework, Interview Notes ]
-cover-img: assets/images/1.jpg
+cover-img: assets/img/1.jpg
 ---
 **Entity Framework**
 
