@@ -43,9 +43,9 @@ layout: base
       {% endif %}
 
       <article role="main" class="blog-post">
-        {% include advertisements.html %}
+     
         {{ content }}
-        {% include advertisements.html %}
+    
       </article>
 
       {% if page.tags.size > 0 %}
@@ -81,7 +81,7 @@ layout: base
         </li>
         {% endif %}
       </ul>
-      {% include advertisements.html %}
+      
       {% include comments.html %}
     </div>
   </div>
